@@ -60,4 +60,3 @@ Dựa vào tham số `Pw`, thuật toán chọn:
 ### Trong đó:
 - **Makespan ($C_{max}$):** Tổng thời gian từ khi bắt đầu cho đến khi công việc cuối cùng kết thúc.
 - **Tardiness :** Tổng thời gian từ khi bắt đầu cho đến khi công việc cuối cùng kết thúc.
-- 
