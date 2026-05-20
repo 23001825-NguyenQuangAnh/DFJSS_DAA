@@ -46,8 +46,6 @@ def Gantt(Machines):
     plt.ylabel('Machines')
     plt.xlabel('Time(min)')
     plt.tight_layout()
-    save_path = os.path.join(os.path.dirname(__file__), 'GA_Solution', 'Gantt_GA.png')
-    plt.savefig(save_path)
     plt.show()
 
 
